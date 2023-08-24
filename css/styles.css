@@ -880,8 +880,7 @@ link {
 }
 
 .checkbox-icon:hover,
-.checkbox-icon:focus {
-}
+.checkbox-icon:focus
 
 .check-mark {
   display: block;
